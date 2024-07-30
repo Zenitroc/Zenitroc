@@ -1,4 +1,4 @@
-![Mi Banner](assets/ZenitrocBanner.png)
+![Mi Banner](Assets/ZenitrocBanner.png)
 # ¡Hola! Soy Franco Matías Cortinez 👋
 
 ## 🔎 Sobre mí
