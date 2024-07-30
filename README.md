@@ -16,11 +16,11 @@ Además, soy Ayudante de Cátedra en la asignatura Sistemas y Procesos de Negoci
 
 ## 💻 Mis Lenguajes de Programación
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="Haskell" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="70" height="70">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="Haskell" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="PHP" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60">
 
 ## 🚀 Mis Proyectos
 
-En este repositorio, puedes encontrar una colección de proyectos que he realizado tanto de forma individual como colaborativa, en diversas áreas como Inteligencia Artificial, Robótica, y más. Estos proyectos reflejan mi interés en el desarrollo de soluciones innovadoras y en la integración de nuevas tecnologías. [Visita mi repositorio de proyectos](https://github.com/tu-usuario/Proyectos)
+En este repositorio, puedes encontrar una colección de proyectos que he realizado tanto de forma individual como colaborativa, en diversas áreas como Inteligencia Artificial, Robótica, y más. Estos proyectos reflejan mi interés en el desarrollo de soluciones innovadoras y en la integración de nuevas tecnologías. [Visita mi repositorio de proyectos](https://github.com/Zenitroc/Proyectos)
 
 ## 📫 Contacto
 
