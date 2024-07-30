@@ -1,3 +1,4 @@
+![Mi Banner](assets/ZenitrocBanner.png)
 # ¡Hola! Soy Franco Matías Cortinez 👋
 
 ## 🔎 Sobre mí
@@ -12,7 +13,7 @@ Además, soy Ayudante de Cátedra en la asignatura Sistemas y Procesos de Negoci
 - 👨‍🎓 Estudiante: Cursando Ingeniería en Sistemas de Información en UTN FRBA
 - 🕵️‍♂️ Explorador de tecnologías emergentes: Apasionado por la investigación y el desarrollo de soluciones innovadoras
 - 👨‍🏫 Ayudante de Cátedra: Colaboro en la asignatura Sistemas y Procesos de Negocios de la carrera Ingeniería en Sistemas de Información en UTN FRBA
-- 🧩 Creencia en el trabajo en equipo: Firme creyente de que juntos, somos más que la suma de nuestras partes 👩🏻👨🏾👨🏻‍🦰👩🏽‍🦱
+- 🧩 Trabajo en equipo: Firme creyente de que juntos, somos más que la suma de nuestras partes 👩🏻👨🏾👨🏻‍🦰👩🏽‍🦱
 
 ## 💻 Mis Lenguajes de Programación
 
