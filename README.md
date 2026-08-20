@@ -142,7 +142,7 @@ Me interesa participar y colaborar en proyectos relacionados con:
 
 ## 📫 Contacto
 
-- **Email:** [francortidf@gmail.com](mailto:francortidf@gmail.com)
+- **Email:** [cortinezfm@gmail.com](mailto:cortinezfm@gmail.com)
 - **LinkedIn:** [Franco Matías Cortinez](https://www.linkedin.com/in/francocortinez/)
 - **GitHub:** [@Zenitroc](https://github.com/Zenitroc)
 
