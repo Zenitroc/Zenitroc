@@ -7,7 +7,7 @@
 ### Técnico en Informática · Estudiante de Ingeniería en Sistemas · Docente · Desarrollador
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20Cortinez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francocortinez/)
-[![Email](https://img.shields.io/badge/Email-francortidf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francortidf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cortinezfm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortinezfm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zenitroc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zenitroc)
 
 </div>
